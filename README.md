@@ -1,90 +1,178 @@
-<!-- README.md for GitHub profile -->
-# Hi, I'm Kushagra 👋
 <div align="center">
-  <!-- Header GIF -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi GIF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kushagra+%F0%9F%91%8B;I+build+ML+systems+that+don't+break+in+production.;MLOps+%7C+LLM+Fine-tuning+%7C+RAG+Pipelines;Pre-final+year+@+DSCE+Bengaluru+%7C+CGPA+8.57" alt="Typing SVG" />
+</div>
 
-  <!-- Social badges (LinkedIn + GitHub) -->
-  <p>
-    <a href="https://www.linkedin.com/in/kushagrabhargava651" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Kushagra651" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+don't+break+in+production.;MLOps+%7C+LLM+Fine-tuning+%7C+RAG+Pipelines;Pre-final+year+@+DSCE+Bengaluru+%7C+CGPA+8.57" alt="Typing SVG" />
+</div>
 
-  <!-- Profile views -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Kushagra651&style=flat-square&color=blue" alt="profile views"/>
-  </p>
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kushagrabhargava651">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Kushagra651">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://substack.com/@kushagrabhargava">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kushagra651&style=for-the-badge&color=0e75b6" alt="profile views"/>
 </div>
 
 ---
 
-## About Me
-I am a Full Stack / ML Engineer from India. I work on building production-ready ML and web systems — from data pipelines to deployment.
+## 👨‍💻 About Me
 
-- 🔭 I’m currently building and contributing to full-stack data/ML applications.
-- 🌱 I’m exploring MLOps, LangChain tools, and distributed model serving.
-- ✍️ I write and read technical articles in my free time.
+Pipelines, monitoring loops, retrieval engines, fine-tuned models — I care about the full arc from raw data to deployed endpoint. Currently exploring distributed model serving, agentic RAG, and LLM fine-tuning at low compute.
+
+- 🔭 Building production ML systems end-to-end — not just notebooks
+- 🧪 Into MLOps, LLM fine-tuning (LoRA/PEFT), and RAG pipelines
+- 🏢 Ex-ML Intern @ **Fitin** — shipped churn model (ROC-AUC 0.91, 100K+ records) + full Airflow + FastAPI pipeline
+- 🥇 Ranked **35th / 2,247** on Kaggle Spaceship Titanic
+- 🔧 Open-source contributor → **Giskard AI** (PR #2440 — Bias LLM Judge eval check merged)
+- ✍️ Write about ML systems & RAG on [Substack](https://substack.com/@kushagrabhargava)
 
 ---
 
-## 🔧 Languages & Tools
+## 🚀 What I've Shipped
 
-<!-- centre-aligned icons: we use raw devicon for many icons + shields for some brand badges -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ SentinelML
+**Production ML Monitoring & Auto-Retraining**
+
+KS-test + chi-squared drift detection triggering Airflow-orchestrated retraining on threshold breach. 3-gate MLflow promotion with zero-downtime symlink swaps. p99 latency + prediction confidence tracked via Prometheus → Grafana.
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+[→ View Project](https://github.com/Kushagra651/)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ LexRA
+**LoRA Fine-tuning of TinyLlama-1.1B on Legal Docs**
+
+4-bit quantization (bitsandbytes) + PEFT/LoRA fine-tuning for domain-specific legal QA. Optimised for low-VRAM environments. Deployed via HuggingFace Transformers inference pipeline.
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT%2FLoRA-8A2BE2?style=flat-square)
+![4bit](https://img.shields.io/badge/4--bit%20Quant-black?style=flat-square)
+
+[→ View Project](https://github.com/Kushagra651/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 EnterpriseRAG
+**Multi-Domain Document Retrieval System**
+
+Retrieval Precision@5: **0.62 → 0.81** over 30-query eval. 91% query routing accuracy via LLM decomposition + parallel sub-query execution. 50+ enterprise docs, <2s latency.
+
+![Qdrant](https://img.shields.io/badge/Qdrant-FF3366?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[→ View Project](https://github.com/Kushagra651/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MediFlow
+**Hospital Resource Forecasting System**
+
+Hybrid SARIMA–XGBoost pipeline, RMSE 1.28 on 7-day patient inflow forecasting. PuLP linear programming cut projected ICU overcapacity by **18%** under hard resource constraints with SHAP explainability.
+
+![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[→ View Project](https://github.com/Kushagra651/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
 <div align="center">
 
-<!-- Devicon raw svg examples -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+**ML & Deep Learning**
 
-<!-- Machine Learning / Data tools (official logos where available) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="HuggingFace" alt="Hugging Face" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="35" alt="PyTorch"/>
+&nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="35" alt="HuggingFace"/>
 
-<!-- MLOps / Workflow / Code infra: use shields for some logos that vary -->
-<img src="https://img.shields.io/badge/DVC-0192C9?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-<img src="https://img.shields.io/badge/Dagshub-000?style=for-the-badge&logo=dagshub&logoColor=white" alt="DagsHub"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<br/><br/>
 
-<!-- CI/CD / Automation -->
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+**MLOps & Infra**
 
-<!-- LangChain / Graph tools / Local inference -->
-<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-000?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge" alt="Ollama"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" alt="Docker"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28"/>
+
+<br/><br/>
+
+**LLMs & GenAI**
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Qdrant-FF3366?style=for-the-badge" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PEFT%2FLoRA-8A2BE2?style=for-the-badge" height="28"/>
+
+<br/><br/>
+
+**Cloud & Deployment**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35" alt="AWS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Replace 'Kushagra651' in each URL -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra651&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra651&layout=compact" alt="Top Languages" width="260"/>
-  <!-- Streak (uses the demo endpoint — if it fails, see Troubleshooting below) -->
-  <p>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Kushagra651&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra651&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra651&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="280"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kushagra651&theme=github-dark-blue&hide_border=true&background=0d1117" width="500"/>
 </div>
 
 ---
 
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/kushagrabhargava651  
-- GitHub: https://github.com/Kushagra651
-
----
-
-_Last updated: <!-- optionally: --> 2025-09-04_
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+</div>
