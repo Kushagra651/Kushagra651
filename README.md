@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/header.svg" alt="Kushagra Bhargava · ML · MLOps · AI · RAG" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/Header.svg" alt="Kushagra Bhargava · ML · MLOps · AI · RAG" width="100%"/>
 
 <br/>
 
@@ -134,7 +134,7 @@ I like the whole arc of an ML system: data, model, serving, monitoring, and the 
 
 `Airflow` `MLflow` `FastAPI` `PostgreSQL` `Prometheus` `Docker Compose` · [Repo](https://github.com/kushagra651/SentinelML)
 
-<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/sentinelml.svg" alt="SentinelML architecture" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/Sentinelml.svg" alt="SentinelML architecture" width="100%"/>
 
 | Result | Number |
 |:--|:--|
@@ -151,7 +151,7 @@ What I learned: my own 0.75 accuracy gate sat below the 75.4% majority baseline,
 
 `Qdrant` `BM25` `LangGraph` `Groq` `DeepEval` · [Repo](https://github.com/kushagra651/FintelRAG)
 
-<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/fintelrag.svg" alt="FintelRAG architecture" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/Fintelrag.svg" alt="FintelRAG architecture" width="100%"/>
 
 | Result | Number |
 |:--|:--|
@@ -167,7 +167,7 @@ What I learned: my own 0.75 accuracy gate sat below the 75.4% majority baseline,
 
 `PyTorch` `FAISS` `FastAPI` `Docker` · [Repo](https://github.com/kushagra651/RecTower)
 
-<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/rectower.svg" alt="RecTower architecture" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/Rectower.svg" alt="RecTower architecture" width="100%"/>
 
 | Result | Number |
 |:--|:--|
@@ -182,7 +182,7 @@ What I learned: my own 0.75 accuracy gate sat below the 75.4% majority baseline,
 
 `TinyLlama` `QLoRA` `PEFT` `HuggingFace` · [Model](https://huggingface.co/aapnakaamkar)
 
-<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/lexra.svg" alt="LexRA pipeline" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/Lexra.svg" alt="LexRA pipeline" width="100%"/>
 
 QLoRA fine-tune of TinyLlama 1.1B on Indian legal text, trained within a low-VRAM budget.
 
@@ -192,7 +192,7 @@ QLoRA fine-tune of TinyLlama 1.1B on Indian legal text, trained within a low-VRA
 
 `Prophet` `SARIMA` `XGBoost` `PuLP` `SHAP` `FastAPI`
 
-<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/mediflow.svg" alt="MediFlow pipeline" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/Mediflow.svg" alt="MediFlow pipeline" width="100%"/>
 
 Hospital demand forecasting with SHAP explainability, served through FastAPI.
 
