@@ -1,24 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Kushagra%20Bhargava&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ML%20Systems%20%E2%80%A2%20MLOps%20%E2%80%A2%20Retrieval%20%26%20LLM%20Evals&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/header.svg" alt="Kushagra Bhargava · ML · MLOps · AI · RAG" width="100%"/>
 
-<a href="https://github.com/kushagra651">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=24C6DC&center=true&vCenter=true&width=720&lines=I+build+ML+systems+end+to+end;I+measure+before+I+claim;Drift+detection+%E2%86%92+gated+retraining+%E2%86%92+registry;Hybrid+retrieval+with+eval+gates;Final-year+ISE+%40+DSCE+Bengaluru+%7C+2027+batch" alt="Typing SVG" />
-</a>
+<br/>
 
-<br/><br/>
-
+[![Resume](https://img.shields.io/badge/Download-Resume-ff2d55?style=for-the-badge&logo=googledrive&logoColor=white)](RESUME_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagrabhargava651)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagrabhargava93@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-aapnakaamkar-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aapnakaamkar)
 [![Substack](https://img.shields.io/badge/Substack-Read-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@kushagrabhargava)
-[![Phone](https://img.shields.io/badge/Call-+91_6350655535-24C6DC?style=for-the-badge&logo=googlemessages&logoColor=white)](tel:+916350655535)
+[![Phone](https://img.shields.io/badge/Call-+91_6350655535-7b2ff7?style=for-the-badge&logo=googlemessages&logoColor=white)](tel:+916350655535)
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Bengaluru,_India-302b63?style=flat-square)
-![Education](https://img.shields.io/badge/🎓_DSCE_·_B.E._ISE_·_2027-302b63?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-8.58-24C6DC?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Bengaluru,_India-05010f?style=flat-square&labelColor=302b63)
+![Education](https://img.shields.io/badge/🎓_DSCE_·_B.E._ISE_·_2027-05010f?style=flat-square&labelColor=302b63)
+![CGPA](https://img.shields.io/badge/CGPA-8.58-00c2ff?style=flat-square&labelColor=302b63)
 ![Status](https://img.shields.io/badge/Open_to-Internships_·_Remote_·_Relocation-2ea44f?style=flat-square)
 
 </div>
@@ -26,6 +23,8 @@
 ---
 
 ## ✦ ABOUT
+
+> *"Throughout heaven and earth, I alone measure before I claim."*
 
 I like the whole arc of an ML system: data, model, serving, monitoring, and the measurement that tells you whether any of it worked. Everything below is a personal build, and I document what failed as readily as what worked: a loss function that beat my architecture, an accuracy gate that sat below the majority baseline, a cold-start test that leaked and had to be rebuilt.
 
@@ -56,49 +55,63 @@ I like the whole arc of an ML system: data, model, serving, monitoring, and the 
 
 ## ✦ TECH STACK
 
-<div align="center">
+<p align="center">
+  <sub><b>LANGUAGES</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
 
-**Languages**
+<p align="center">
+  <sub><b>ML AND DATA</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-02A676?style=for-the-badge" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge" alt="SHAP"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,cpp,bash&theme=dark" />
+<p align="center">
+  <sub><b>LLMS AND RETRIEVAL</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/DeepEval-6C47FF?style=for-the-badge" alt="DeepEval"/>
+  <img src="https://img.shields.io/badge/LoRA_/_PEFT-8A2BE2?style=for-the-badge" alt="LoRA / PEFT"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
-**ML and Data**
+<p align="center">
+  <sub><b>MLOPS AND SERVING</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" />
+<p align="center">
+  <sub><b>DATABASES AND CLOUD</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge" alt="AWS SageMaker"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+</p>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02A676?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge)
-
-**LLMs and Retrieval**
-
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![DeepEval](https://img.shields.io/badge/DeepEval-6C47FF?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/LoRA_/_PEFT-8A2BE2?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
-**MLOps and Serving**
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,githubactions,prometheus,grafana&theme=dark" />
-
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**Databases and Cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws&theme=dark" />
-
-![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
-
-</div>
+<p align="center">
+  <sub><b>TOOLS</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
@@ -121,19 +134,7 @@ I like the whole arc of an ML system: data, model, serving, monitoring, and the 
 
 `Airflow` `MLflow` `FastAPI` `PostgreSQL` `Prometheus` `Docker Compose` · [Repo](https://github.com/kushagra651/SentinelML)
 
-```mermaid
-flowchart LR
-    A[FastAPI<br/>hot-reload serving] --> B[(PostgreSQL<br/>prediction log)]
-    B --> C{{Airflow DAG<br/>drift check · 6h}}
-    C -->|KS · chi-square · PSI<br/>+ Bonferroni gate| D{Drift?}
-    D -->|no| C
-    D -->|yes| E[Gated retrain<br/>12h cooldown]
-    E --> F[Train · evaluate · register]
-    F --> G[(MLflow registry)]
-    G -->|promotion gate| A
-    classDef core fill:#302b63,stroke:#24c6dc,color:#fff;
-    class A,C,E,F core;
-```
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/sentinelml.svg" alt="SentinelML architecture" width="100%"/>
 
 | Result | Number |
 |:--|:--|
@@ -150,23 +151,7 @@ What I learned: my own 0.75 accuracy gate sat below the 75.4% majority baseline,
 
 `Qdrant` `BM25` `LangGraph` `Groq` `DeepEval` · [Repo](https://github.com/kushagra651/FintelRAG)
 
-```mermaid
-flowchart LR
-    Q([Query]) --> R{Single company?<br/>regex pre-route}
-    R -->|yes| H
-    R -->|no| D[LLM query<br/>decomposition]
-    D --> H
-    subgraph H [Hybrid retrieval]
-        S[BM25 sparse<br/>30,800-token vocab]
-        V[Qdrant dense<br/>768-dim]
-    end
-    S --> F[RRF fusion<br/>k = 60]
-    V --> F
-    F --> G[llama-3.1-8b<br/>citation-grounded output]
-    G --> E[[DeepEval gate<br/>faithfulness · precision]]
-    classDef core fill:#302b63,stroke:#24c6dc,color:#fff;
-    class F,G,E core;
-```
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/fintelrag.svg" alt="FintelRAG architecture" width="100%"/>
 
 | Result | Number |
 |:--|:--|
@@ -182,15 +167,7 @@ flowchart LR
 
 `PyTorch` `FAISS` `FastAPI` `Docker` · [Repo](https://github.com/kushagra651/RecTower)
 
-```mermaid
-flowchart LR
-    U[User tower] --> L{{In-batch InfoNCE<br/>+ logQ correction}}
-    I[Item tower] --> L
-    L --> X[FAISS IndexFlatIP]
-    X --> Y[FastAPI + Docker<br/>seen-item filtering]
-    classDef core fill:#302b63,stroke:#24c6dc,color:#fff;
-    class U,I,L,X,Y core;
-```
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/rectower.svg" alt="RecTower architecture" width="100%"/>
 
 | Result | Number |
 |:--|:--|
@@ -201,12 +178,30 @@ flowchart LR
 
 ---
 
+### ⚖️ LexRA: legal-domain LLM fine-tune
+
+`TinyLlama` `QLoRA` `PEFT` `HuggingFace` · [Model](https://huggingface.co/aapnakaamkar)
+
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/lexra.svg" alt="LexRA pipeline" width="100%"/>
+
+QLoRA fine-tune of TinyLlama 1.1B on Indian legal text, trained within a low-VRAM budget.
+
+---
+
+### 🏥 MediFlow: hospital demand forecasting
+
+`Prophet` `SARIMA` `XGBoost` `PuLP` `SHAP` `FastAPI`
+
+<img src="https://raw.githubusercontent.com/Kushagra651/Kushagra651/main/assets/mediflow.svg" alt="MediFlow pipeline" width="100%"/>
+
+Hospital demand forecasting with SHAP explainability, served through FastAPI.
+
+---
+
 ### 🧱 Also built
 
 | Project | What it is |
 |:--|:--|
-| **LexRA** | QLoRA fine-tune of TinyLlama 1.1B on Indian legal text, [on HuggingFace](https://huggingface.co/aapnakaamkar) |
-| **MediFlow** | Hospital demand forecasting with SHAP explainability and FastAPI |
 | **VC AI Agents** | Multi-agent due-diligence loops with Pydantic-validated outputs |
 
 [→ Browse all repositories](https://github.com/kushagra651?tab=repositories)
@@ -216,10 +211,10 @@ flowchart LR
 ## ✦ HOW I WORK
 
 ```text
-1. Baseline first      a number to beat before any model gets complicated
-2. Evaluate honestly   full-catalog ranking, seeds, confidence intervals, no leaky splits
-3. Gate everything     drift, promotion and faithfulness gates, so regressions fail loudly
-4. Report negatives    if a simpler method wins, the README says so
+ 1  Baseline first       a number to beat before any model gets complicated
+ 2  Evaluate honestly    full-catalog ranking, seeds, no leaky splits
+ 3  Gate everything      drift, promotion and faithfulness gates fail loudly
+ 4  Report negatives     if a simpler method wins, the README says so
 ```
 
 ---
@@ -256,10 +251,22 @@ I write up what I learn on [Substack](https://substack.com/@kushagrabhargava).
 ## ✦ GITHUB SNAPSHOT
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra651&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagra651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=05010f" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra651&layout=compact&theme=tokyonight&hide_border=true&bg_color=05010f" height="170"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=kushagra651&theme=tokyonight&hide_border=true&background=0f0c29" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=kushagra651&theme=tokyonight&hide_border=true&background=05010f" height="160"/>
+</div>
+
+---
+
+## ✦ RESUME
+
+<div align="center">
+
+A one-page summary of everything above.
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-ff2d55?style=for-the-badge&logo=googledrive&logoColor=white)](RESUME_LINK)
+
 </div>
 
 ---
@@ -270,10 +277,11 @@ I'm looking for an ML / AI engineering internship with a path to full-time. If y
 
 | | |
 |:--|:--|
+| 📄 **Resume** | [Download (Google Drive)](RESUME_LINK) |
 | 📧 **Email** | [kushagrabhargava93@gmail.com](mailto:kushagrabhargava93@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/kushagrabhargava651](https://www.linkedin.com/in/kushagrabhargava651) |
 | 📞 **Phone** | [+91 6350655535](tel:+916350655535) |
 | 🤗 **HuggingFace** | [aapnakaamkar](https://huggingface.co/aapnakaamkar) |
 | ✍️ **Substack** | [@kushagrabhargava](https://substack.com/@kushagrabhargava) |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010f,50:302b63,100:7b2ff7&height=100&section=footer" width="100%"/>
